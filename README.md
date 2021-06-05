@@ -10,7 +10,7 @@
  - Serial Max Speed: 115.000 baud (free version)
  
  ## FLashing the ESP32 Firmware
- Check out the guide ![here](https://www.martinloren.com/guides/fashing-esp32/)
+ Check out the guide [here](https://www.martinloren.com/guides/fashing-esp32/)
  
  ## How to use
  When the ESP is powered it creates an Wifi access point with SSID like ESP-SERIAL-F62684. Connect to it with the phone or PC (password: 123456789) and open the browser (everything except Internet Explorer) at address 192.168.4.1, to access the app.
