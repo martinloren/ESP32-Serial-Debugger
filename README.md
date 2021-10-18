@@ -25,7 +25,7 @@ Check out the guide [here](https://www.martinloren.com/guides/fashing-esp32/)
 
 ### V1.1
 - Bug fixed
-- Added terminal colors (red,green,yellow)
+- Added terminal colors (red, green, yellow)
 - Enlarged buffer (8KB/200ms)
 - Improved UI
 - Added support for phone/tablets browsers
@@ -34,6 +34,8 @@ Check out the guide [here](https://www.martinloren.com/guides/fashing-esp32/)
 - First Release
 
 ## How to use
-When the ESP is powered it creates an Wifi access point with SSID like ESP-SERIAL-F62684. Connect to it with the phone or PC (password: 123456789) and open the browser (everything except Internet Explorer) at address 192.168.4.1, to access the app.
+When the ESP is powered it creates an Wifi access point with SSID like **ESP-SERIAL-F62684**. 
+- Connect to it with the phone or PC (default password: **123456789**)
+- Open the browser (everything except Internet Explorer) at address **192.168.4.1**
  
  
