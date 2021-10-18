@@ -5,14 +5,14 @@ It automatically create a WiFi Access Point where phones, PC can connect and vis
 
 ![Serial Debugger](Schematics/ESP32_Connections_V1.0.png)
 
-- Web User Interface
+- Web User Interface (default IP: 192.168.4.1)
 - Possibility to configure the serial port
 - Send/Receive data in real-time
 - Serial Max Speed: 115.000 baud (free version)
 
 ## Screenshots
 ![Screenshot](Screenshots/Screenshot_1.png)
-[→ Sample Video](Screenshots/Video_1.mp4)
+[→ Sample Video](Screenshots/Video_1.mp4 =250x)
 
 ## TODO
 - Automatic serial data generator (to test serial receivers)
