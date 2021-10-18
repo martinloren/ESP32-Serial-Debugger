@@ -12,9 +12,9 @@ It automatically create a WiFi Access Point where phones, PC can connect and vis
 
 ## Screenshots
 <p align="center">
-![Screenshot](Screenshots/Screenshot_1.png =250x)
-<img src="Screenshots/Screenshot_1.png" alt="Screenshot" width="200"/>
+    <img src="Screenshots/Screenshot_1.png" alt="Screenshot" width="200"/>
 </p>
+
 [→ Sample Video](Screenshots/Video_1.mp4)
 
 ## TODO
