@@ -12,7 +12,7 @@ It automatically create a WiFi Access Point where phones, PC can connect and vis
 
 ## Screenshots
 <p align="center">
-    <img src="Screenshots/Screenshot_1.png" alt="Screenshot" width="200"/>
+    <img src="Screenshots/Screenshot_1.png" alt="Screenshot" width="600"/>
 </p>
 
 [→ Sample Video](Screenshots/Video_1.mp4)
