@@ -11,8 +11,11 @@ It automatically create a WiFi Access Point where phones, PC can connect and vis
 - Serial Max Speed: 115.000 baud (free version)
 
 ## Screenshots
-![Screenshot](Screenshots/Screenshot_1.png)
-[→ Sample Video](Screenshots/Video_1.mp4 =250x)
+<p align="center">
+![Screenshot](Screenshots/Screenshot_1.png =250x)
+<img src="Screenshots/Screenshot_1.png" alt="Screenshot" width="200"/>
+</p>
+[→ Sample Video](Screenshots/Video_1.mp4)
 
 ## TODO
 - Automatic serial data generator (to test serial receivers)
