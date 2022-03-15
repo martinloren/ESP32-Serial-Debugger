@@ -53,6 +53,12 @@ When the ESP is powered it creates a Wifi access point with SSID like **ESP-SERI
 
 
 ## ESP32 Firmware Changelog
+### V1.2
+- Auto power off (PCB version, after 5 min of inactivity)
+- Realtime battery status on main webpage
+- Better RGB signaling
+- Fixed bugs
+- Added Restart and Power Off controls in webpage->Settings
 ### V1.1
 - Bug fixed
 - Added terminal colors (red, green, yellow)
